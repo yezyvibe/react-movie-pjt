@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/yezyvibe/react-movie-pjt/static/js/main.502f800d.js",
-    "index.html": "/yezyvibe/react-movie-pjt/index.html",
-    "main.502f800d.js.map": "/yezyvibe/react-movie-pjt/static/js/main.502f800d.js.map"
+    "main.js": "/react-movie-pjt/static/js/main.502f800d.js",
+    "index.html": "/react-movie-pjt/index.html",
+    "main.502f800d.js.map": "/react-movie-pjt/static/js/main.502f800d.js.map"
   },
   "entrypoints": [
     "static/js/main.502f800d.js"
