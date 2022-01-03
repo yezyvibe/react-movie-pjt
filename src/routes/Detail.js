@@ -28,9 +28,10 @@ function Detail() {
           <h1 className={styles.movie__title}>{movie.title}</h1>
           <h3 className={styles.movie__year}>{movie.year}</h3>
           <p className={styles.movie__description}>
-            {movie.description_intro.length > 400
+            {movie.description_intro}
+            {/* {movie.description_intro.length > 400
               ? `${movie.description_intro.slice(0, 400)}...`
-              : movie.description_intro}
+              : movie.description_intro} */}
           </p>
           <ul className={styles.movie__genres}>
             {movie.genres && movie.genres.map((g) => <li key={g}>{g}</li>)}
